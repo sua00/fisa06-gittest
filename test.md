@@ -45,4 +45,4 @@ print(hello)
 - 이미지링크 ![깨졌을때 설명](실제 연결할 이미지 주소)
 ![네이버로 가기](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TdOV3.img)
 
-![신짱구](https://i.pinimg.com/originals/4c/23/a3/4c23a3d5440f742d144cc5abeb815ec2.png)
+![마루](https://github.com/sua00/fisa06-gittest/blob/main/maru.png?raw=true)
